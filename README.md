@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello Rails Back-end
+# Hello Rails Back-End
 
 Hello rails displays a random greeting each time the page is reloaded.
 
